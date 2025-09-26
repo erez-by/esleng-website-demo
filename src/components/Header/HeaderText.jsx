@@ -1,13 +1,13 @@
 import data from "../../data.json";
 import { NavLink } from "react-router-dom";
-import {motion, scale} from "framer-motion"
+import {motion} from "framer-motion"
 
 export default function HeaderText({isMenuOpen, setIsMenuOpen}) {
   
 
   return (
     <header className="flex flex-col min-h-60 bg-white shadow-sm items-center justify-center-top md:flex-row md:justify-around p-2 ">
-      <NavLink to="/"><img src={data.mainPage.header.logo} className="h-32 p-1"/></NavLink>
+      <NavLink to="/"><img src={data.mainPage.header.logo} className="h-32 p-1" alt="Logo"/></NavLink>
       <div className="flex flex-col items-center space-y-2">
         <div className="flex flex-col items-center space-y-1">
           <a

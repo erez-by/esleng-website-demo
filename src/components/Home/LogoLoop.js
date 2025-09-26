@@ -282,7 +282,7 @@ export const LogoLoop = memo(
               scaleOnHover && 'overflow-visible group/item'
             )}
             key={key}
-            role="listitem"
+            //role="listitem"
           >
             {inner}
           </li>
@@ -297,7 +297,7 @@ export const LogoLoop = memo(
           <ul
             className="flex items-center"
             key={`copy-${copyIndex}`}
-            role="list"
+            //role="list"
             aria-hidden={copyIndex > 0}
             ref={copyIndex === 0 ? seqRef : undefined}
           >
@@ -321,7 +321,7 @@ export const LogoLoop = memo(
         ref={containerRef}
         className={rootClasses}
         style={containerStyle}
-        role="region"
+        //role="region"
         aria-label={ariaLabel}
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
