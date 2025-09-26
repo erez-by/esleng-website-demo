@@ -1,0 +1,52 @@
+{
+    "projects": [
+        {
+        "id": 1,
+        "src": "/images/projectsPics/project1.webp",
+        "header": "לב לבונטין - תל אביב",
+        "description": "זהו תיאור קצר של הפרוייקט הראשון. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 2,
+        "src": "/images/projectsPics/project2.webp",
+        "header": "G תל אביב",
+        "description": "זהו תיאור קצר של הפרוייקט השני. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 3,
+        "src": "/images/projectsPics/project3.webp",
+        "header": "הרובע ביפו - תל אביב",
+        "description": "זהו תיאור קצר של הפרוייקט הראשון. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 4,
+        "src": "/images/projectsPics/project4.webp",
+        "header": "נופים צור הדסה ",
+        "description": "זהו תיאור קצר של הפרוייקט השני. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 5,
+        "src": "/images/projectsPics/project5.webp",
+        "header": "אזורים - -רחובות",
+        "description": "זהו תיאור קצר של הפרוייקט הראשון. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 6,
+        "src": "/images/projectsPics/project6.webp",
+        "header": "גינדי הייטס - רמת",
+        "description": "זהו תיאור קצר של הפרוייקט השני. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 7,
+        "src": "/images/projectsPics/project7.webp",
+        "header": "גילת ציון",
+        "description": "זהו תיאור קצר של הפרוייקט הראשון. הוא מסביר במה מדובר ומה המטרות שלו."
+        },
+        {
+        "id": 8,
+        "src": "/images/projectsPics/project8.webp",
+        "header": " גן יבנה - פרוייקט מערבה",
+        "description": "זהו תיאור קצר של הפרוייקט השני. הוא מסביר במה מדובר ומה המטרות שלו."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "mainPage": {
+        "header": {
+            "logo": "/images/ESL-LOGO.svg",
+            "contactEmail": "esleng@gmail.com",
+            "contactPhone": "+1 (123) 456-7890",
+            "facebookLink": "https://www.facebook.com/yourbusiness",
+            "whatsappLink": "https://wa.me/yourbusinessnumber"
+        },
+        "MainPageText": {
+            "phrase": "אנחנו מחויבים לליווי אישי, מקצועיות ואיכות בלתי מתפשרת",
+            "about": "חברת אשל הנדסה היא מהמובילות בארץ בתחום ההנדסה האזרחית ומציעה ליווי הנדסי מקצועי בתחומים של בניה למגורים, מסחר, תעשייה, בניה ציבורית, תשתיות, פיתוח ועוד.\n\nהשותפים אבשלום בן יעקב וערן גרבר, מתחייבים למעורבות אישית והפיכת הפרויקט שלך לשלהם!\n\nמעל חמישים שנות ניסיון מצטבר של השותפים, היכרות רחבה ומעמיקה של ענף הבניה בארץ, מערכת אבטחת איכות ובקרה בעלת תקן ISO ששומרת על התקציב ולוח הזמנים שלך וצוות מקצועי מהשורה הראשונה - כל אלה מבטיחים לך ולפרויקט שלך תוצאה אחת: הצלחה!"
+        },
+        "companyLogos": [
+            "/logos/circle-check-big.svg",
+            "/logos/circle-chevron-down.svg",
+            "/logos/circle-chevron-left.svg",
+            "/logos/circle-chevron-right.svg",
+            "/logos/circle-chevron-up.svg",
+            "/logos/circle-dashed.svg"
+        ]
+    },
+
+    "aboutPage":{
+        "header":"אודותינו",
+        "contant":"אשל הנדסה הוקמה בשנת 2006 ומנוהלת על ידי שני שותפים בעלי ניסיון רב בענף הבניה : אבשלום בן יעקב וערן גרבר . \n\n "
+
+    }
+}
+

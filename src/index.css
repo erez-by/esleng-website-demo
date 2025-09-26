@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom theme colors */
+@theme {
+  --color-eslOrange: #ff931e;
+  --color-eslBlue: #292f47;
+}
+
+@layer base {
+  p {
+    color: rgb(27, 26, 25); /* or use Tailwind text classes */
+  }
+}
